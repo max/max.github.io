@@ -1,8 +1,8 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Max Schoening",
-	"home_page_url": "https://mschoening.micro.blog/",
-	"feed_url": "https://mschoening.micro.blog/feed.json",
+	"home_page_url": "http://blog.max.wtf/",
+	"feed_url": "http://blog.max.wtf/feed.json",
 	"items": [
 		
 		{
@@ -10,7 +10,7 @@
 	      	
 			"content_html": "<p>This thing is fantastic. It mirrors my posts to a <a href=\"https://github.com/max/max.github.io\">GitHub repo</a>, supports <a href=\"https://daringfireball.net\">Markdown</a>, and so far 0 mention of thermonuclear war.</p>\n",
 			"date_published": "2018-01-02T20:46:00-08:00",
-			"url": "https://mschoening.micro.blog/2018/01/02/this-thing-is.html"
+			"url": "http://blog.max.wtf/2018/01/02/this-thing-is.html"
 		},
 		
 		{
@@ -18,7 +18,7 @@
 	      	
 			"content_html": "<p>Hello, <a href=\"https://mschoening.micro.blog\">micro.blog</a>! Time to move off of Twitter (x-posting for a while).</p>\n",
 			"date_published": "2018-01-02T20:36:00-08:00",
-			"url": "https://mschoening.micro.blog/2018/01/02/hello-microbloghttpsmicroblog-time.html"
+			"url": "http://blog.max.wtf/2018/01/02/hello-microbloghttpsmicroblog-time.html"
 		}
 		
 	]
