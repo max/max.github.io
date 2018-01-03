@@ -1,0 +1,17 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Max Schoening",
+	"home_page_url": "https://mschoening.micro.blog/",
+	"feed_url": "https://mschoening.micro.blog/feed.json",
+	"items": [
+		
+		{
+			"id": "http://mschoening.micro.blog/2018/01/03/hello-microbloghttpsmicroblog-time.html",
+	      	
+			"content_html": "<p>Hello, <a href=\"https://micro.blog\">micro.blog</a>! Time to move off of Twitter (x-posting for a while).</p>\n",
+			"date_published": "2018-01-02T20:36:00-08:00",
+			"url": "https://mschoening.micro.blog/2018/01/02/hello-microbloghttpsmicroblog-time.html"
+		}
+		
+	]
+}
