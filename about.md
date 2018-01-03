@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 order: 0
 ---
-I design software at GitHub.
+Sr. Director of YAML files @github. This one time I had coffee @googlecloud, made things purple @heroku, and founded two mediocre startups ( @cloudapp / @usecanvas).
