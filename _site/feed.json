@@ -16,7 +16,7 @@
 		{
 			"id": "http://mschoening.micro.blog/2018/01/03/this-thing-is.html",
 	      	
-			"content_html": "<p>micro.blog is fantastic. It mirrors my posts to a <a href=\"https://github.com/max/max.github.io\">GitHub repo</a>, supports <a href=\"https://daringfireball.net\">Markdown</a>, and so far 0 mention of thermonuclear war.</p>\n",
+			"content_html": "<p><a href=\"https://micro.blog/\">micro.blog</a> is fantastic. It mirrors my posts to a <a href=\"https://github.com/max/max.github.io\">GitHub repo</a>, supports <a href=\"https://daringfireball.net\">Markdown</a>, and so far 0 mention of thermonuclear war.</p>\n",
 			"date_published": "2018-01-02T20:46:00-08:00",
 			"url": "http://blog.max.wtf/2018/01/02/this-thing-is.html"
 		},
