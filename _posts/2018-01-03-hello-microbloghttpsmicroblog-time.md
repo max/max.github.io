@@ -4,4 +4,4 @@ microblog: true
 date: 2018-01-02 20:36 -0800
 guid: http://mschoening.micro.blog/2018/01/03/hello-microbloghttpsmicroblog-time.html
 ---
-Hello, [micro.blog](https://blog.max.wtf/)! Time to move off of Twitter.
+Hello, [micro.blog](https://micro.blog/)! Time to move off of Twitter.
