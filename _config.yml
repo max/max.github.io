@@ -7,6 +7,7 @@ baseurl: ""
 url: "http://blog.max.wtf"
 markdown: "kramdown"
 username: "mschoening"
+microblog_user: "mschoening"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "Max Schoening"
@@ -22,3 +23,7 @@ paginate: 20
 paginate_path: "/page/:num/"
 timezone: "US/Pacific-New"
 site_id: "2294"
+gems: ["jekyll-paginate"]
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
+itunes_author: "Max Schoening"
